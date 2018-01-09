@@ -1,4 +1,10 @@
 # sprint-planning-drinking-game
+
+Planning to sprint?
+Drinking to plan?
+
+Introducing sprint planning drinking.
+
 Exciting ways to make sprint planning your favorite event.
 
 
